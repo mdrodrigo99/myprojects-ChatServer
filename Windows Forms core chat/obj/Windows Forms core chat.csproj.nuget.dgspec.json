@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Torrens - Adelaide\\NDS203 - Networking and Database\\Assignment 3\\Test\\C# TCP Chat Program (1)\\Windows Forms core chat\\Windows Forms core chat.csproj": {}
+  },
+  "projects": {
+    "F:\\Torrens - Adelaide\\NDS203 - Networking and Database\\Assignment 3\\Test\\C# TCP Chat Program (1)\\Windows Forms core chat\\Windows Forms core chat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Torrens - Adelaide\\NDS203 - Networking and Database\\Assignment 3\\Test\\C# TCP Chat Program (1)\\Windows Forms core chat\\Windows Forms core chat.csproj",
+        "projectName": "Windows Forms core chat",
+        "projectPath": "F:\\Torrens - Adelaide\\NDS203 - Networking and Database\\Assignment 3\\Test\\C# TCP Chat Program (1)\\Windows Forms core chat\\Windows Forms core chat.csproj",
+        "packagesPath": "C:\\Users\\mdrod\\.nuget\\packages\\",
+        "outputPath": "F:\\Torrens - Adelaide\\NDS203 - Networking and Database\\Assignment 3\\Test\\C# TCP Chat Program (1)\\Windows Forms core chat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mdrod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

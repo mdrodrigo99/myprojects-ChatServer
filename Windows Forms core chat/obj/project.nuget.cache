@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OaiepMe+y6EeanmHTLz5v69iFAMHyMk2TSadbQzO+++vSUYabMT/+XTuj/lWG+nMXQ68p9IabOwXptTPk6FKwg==",
+  "success": true,
+  "projectFilePath": "F:\\Torrens - Adelaide\\NDS203 - Networking and Database\\Assignment 3\\Test\\C# TCP Chat Program (1)\\Windows Forms core chat\\Windows Forms core chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdrod\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\mdrod\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}

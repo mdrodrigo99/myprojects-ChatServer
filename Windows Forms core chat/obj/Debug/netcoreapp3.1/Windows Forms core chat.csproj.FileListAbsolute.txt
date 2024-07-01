@@ -1,0 +1,68 @@
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.exe
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.deps.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.dev.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\bin\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.GenerateResource.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfoInputs.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfo.cs
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.CoreCompileInputs.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows Forms core chat.genruntimeconfig.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms CORE CHAT UGH\obj\Debug\netcoreapp3.1\Windows_Forms_Chat.Form1.resources
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.exe
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.deps.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.dev.json
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csprojAssemblyReference.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows_Forms_Chat.Form1.resources
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.GenerateResource.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfoInputs.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfo.cs
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.CoreCompileInputs.cache
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\thefa\source\repos\Windows Forms CORE CHAT UGH - Copy\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.genruntimeconfig.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.exe
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.deps.json
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.json
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.dev.json
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.dll
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.AssemblyReference.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows_Forms_Chat.Form1.resources
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.GenerateResource.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.GeneratedMSBuildEditorConfig.editorconfig
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfoInputs.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfo.cs
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.CoreCompileInputs.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.dll
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 2\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.genruntimeconfig.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.exe
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.deps.json
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.json
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.dev.json
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.dll
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.AssemblyReference.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows_Forms_Chat.Form1.resources
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.GenerateResource.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.GeneratedMSBuildEditorConfig.editorconfig
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfoInputs.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfo.cs
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.CoreCompileInputs.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.dll
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.genruntimeconfig.cache
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.CopyComplete
+F:\Torrens - Adelaide\NDS203 - Networking and Database\Assignment 3\Test\C# TCP Chat Program (1)\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows_Forms_CORE_CHAT_UGH.Form2.resources
